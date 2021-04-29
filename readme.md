@@ -1,2 +1,2 @@
 <h1> a classy oh my zsh theme <h2>
-![fizzy](fizzy.jpg)
+<img src="fizzy.jpg" alt="fizzy image art"/>

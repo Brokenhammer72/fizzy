@@ -10,7 +10,12 @@ this would copy the neccesary theme file into the zsh theme directory
 ZSH_THEME="fizzy"
 ```
 change the zsh theme to fizzy theme . 
-<br>
 just copy and paste this :)  in your .zshrc which is in your home directory and its hidden by default
+
+```shell
+source ~/.zshrc
+```
+either source the file or restart the terminal
+<br>
 <h1>PREVIEW </h1>
 <img src="preview.jpg" alt="preview img!"/>

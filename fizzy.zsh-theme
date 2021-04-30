@@ -1,5 +1,5 @@
 symbol(){
-	echo "%{$FG[123]%}%B↪️%b%{$reset_color%}"
+	echo "%{$FG[123]%}%B>%b%{$reset_color%}"
 }
 username(){
 	echo "%{$FG[027]%}%n %{$reset_color%}" 	
@@ -21,7 +21,7 @@ Psymbol(){
 }
 
 current_time() {
-	echo "%{$FG[213]%}%T%{$reset_color%}"
+	echo "%{$FG[123]%}%T%{$reset_color%}"
 }
 
 git_setting(){
